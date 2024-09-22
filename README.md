@@ -1,4 +1,4 @@
-![logo](https://github.com/HareemShaikh01/HareemShaikh01/blob/main/githubbanner.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Hareem Shaikh</h1>
 <h3 align="center">A Fired_Up Web developer from Pakistan</h3>
