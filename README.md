@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BACKEND**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/hareem-shaikhs-projects/portfolio](https://vercel.com/hareem-shaikhs-projects/portfolio)
+- 👨‍💻 All of my projects are available at [https://vercel.com/hareem-shaikhs-projects/portfolio](https://hareem.vercel.app/)
 
 - 💬 Ask me about **React**
 
